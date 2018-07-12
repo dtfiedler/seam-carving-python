@@ -1,4 +1,4 @@
-# Research Project
+# Content Aware Image Resizing - Research Project Replication
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1ynH6MJJo_gcsSbySdE_U4JD9nsmXXR2F/view"><img src="https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_orig.png" alt="IMAGE ALT TEXT"></a>

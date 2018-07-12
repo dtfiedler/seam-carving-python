@@ -1,6 +1,6 @@
 # Research Project
 
-<div align="center"
+<div align="center">
 [![Watch the video](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_orig.png)](https://drive.google.com/file/d/1ynH6MJJo_gcsSbySdE_U4JD9nsmXXR2F/view)
 </div>
 
@@ -30,19 +30,23 @@ Your report and presentation should include a brief description of the experimen
 ## Results
 
 ### Seam Removal:
+<div align="center">
 #### Original Image
 ![orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_orig.png)
 
 #### Seams Removed
 ![orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_350_final.png)
 
+</div>
+<div align="center">
 ### Seam Insertion
 ~[orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/fig8.png)
 
 ![seams](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/seam_overlay.png)
 
 ![result](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/expanded_478_final_output.png)
-
+</div>
+	
 ## Process:
 1. Determine size change of image (width or height) and by how many rows/columns
 2. If increasing/decreasing height..rotate image

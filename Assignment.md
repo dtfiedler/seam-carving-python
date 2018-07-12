@@ -24,7 +24,9 @@ Your report and presentation should include a brief description of the experimen
   - Seam insertion (Figure 8 -- parts c, d, and f only)
 
 ## Results
-Goal: Increase/decrease the size of the image
+
+### Original Image
+[!orig_image](../resources/beach_orig.png)
 
 ### Process:
 1. Determine size change of image (width or height) and by how many rows/columns

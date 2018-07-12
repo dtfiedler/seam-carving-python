@@ -25,8 +25,13 @@ Your report and presentation should include a brief description of the experimen
 
 ## Results
 
-### Original Image
-[!orig_image](../resources/beach_orig.png)
+### Seam Removal:
+#### Original Image
+![orig_image](../resources/beach_orig.png)
+
+#### Seams Removed
+![orig_image](../resources/beach_350_final.png)
+
 
 ### Process:
 1. Determine size change of image (width or height) and by how many rows/columns

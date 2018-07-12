@@ -31,7 +31,9 @@ Your report and presentation should include a brief description of the experimen
 
 ### Seam Removal:
 <div align="center">
+	
 #### Original Image
+
 ![orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_orig.png)
 
 #### Seams Removed
@@ -39,8 +41,9 @@ Your report and presentation should include a brief description of the experimen
 
 </div>
 <div align="center">
+	
 ### Seam Insertion
-~[orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/fig8.png)
+![orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/fig8.png)
 
 ![seams](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/seam_overlay.png)
 

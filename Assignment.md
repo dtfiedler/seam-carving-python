@@ -27,13 +27,12 @@ Your report and presentation should include a brief description of the experimen
 
 ### Seam Removal:
 #### Original Image
-![orig_image](../resources/beach_orig.png)
+![orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_orig.png)
 
 #### Seams Removed
-![orig_image](../resources/beach_350_final.png)
+![orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_350_final.png)
 
-
-### Process:
+## Process:
 1. Determine size change of image (width or height) and by how many rows/columns
 2. If increasing/decreasing height..rotate image
 3. Create energy map of image

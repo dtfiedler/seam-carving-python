@@ -1,5 +1,8 @@
 # Research Project
 
+[![Watch the video](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_orig.png)](https://drive.google.com/file/d/1ynH6MJJo_gcsSbySdE_U4JD9nsmXXR2F/view)
+
+
 ## Synopsis
 
 The goal of this project is to replicate the results of a previously published computational photography paper. Replication provides a deeper understanding of research results, and allows you to compare your results against an expected baseline. While previous results are helpful as a guide towards implementation, successful replication can be challenging. Instructions are not always clear, and implementation details like parameter values may be missing or ambiguous, and it is sometimes difficult or impossible to achieve exactly the same results.

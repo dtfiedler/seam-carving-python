@@ -32,6 +32,13 @@ Your report and presentation should include a brief description of the experimen
 #### Seams Removed
 ![orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_350_final.png)
 
+### Seam Insertion
+~[orig_image](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/fig8.png)
+
+![seams](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/seam_overlay.png)
+
+![result](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/expanded_478_final_output.png)
+
 ## Process:
 1. Determine size change of image (width or height) and by how many rows/columns
 2. If increasing/decreasing height..rotate image

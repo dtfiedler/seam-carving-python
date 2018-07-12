@@ -1,7 +1,8 @@
 # Research Project
 
+<div align="center"
 [![Watch the video](https://github.com/dtfiedler/seam-carving-python/blob/master/resources/beach_orig.png)](https://drive.google.com/file/d/1ynH6MJJo_gcsSbySdE_U4JD9nsmXXR2F/view)
-
+</div>
 
 ## Synopsis
 
